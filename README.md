@@ -7,13 +7,16 @@
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>
 </h3>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Coding%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Coding%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=35">
 </p>
 <p align="center">
-  <a href="https://linkedin.com/coderrsid"><img alt="followers" title="Connect on LinkedIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-   <a href="https://portfolio.coderrsid.vercel.app/"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=koding&logoColor=white"/></a>
-    <a href="https://github.com/coderrsid"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/coderrsid?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
-  <a href="https://mail.google.com/mail/u/0/?fs=1&to=sehgal.siddhant999@gmail.com&su=SUBJECT&body=BODY&tf=cm"><img alt="followers" title="Send MAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a target="_blank" href="https://linkedin.com/coderrsid"><img alt="followers" title="Connect on LinkedIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+	&emsp;
+   <a target="_blank" href="https://portfolio.coderrsid.vercel.app/"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=koding&logoColor=white"/></a>
+	&emsp;
+    <a target="_blank" href="https://github.com/coderrsid"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/coderrsid?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+	&emsp;
+  <a target="_blank" href="https://mail.google.com/mail/u/0/?fs=1&to=sehgal.siddhant999@gmail.com&su=SUBJECT&body=BODY&tf=cm"><img alt="followers" title="Send MAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ## 📖 About me
@@ -27,18 +30,18 @@
 
 ## 🔥 My contribution streak
 
-<p align="center"
+<p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1#version3"/>
   </a>
 </p>
 
-<h3 align="center">⬇ Scroll down to see <a href="https://github.com/coderrsid?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
-
+<h3 align="center">⬇ Click here to see <a href="https://github.com/coderrsid?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
+<p align="center"><img width="30%" src="https://user-images.githubusercontent.com/35633575/126678418-6de9c567-df80-4c57-ac62-454d7df29e96.gif" /></p>
 
 ## 🛠️ My Skills
 
-### 👉 Programming languages
+#### 👨‍💻 Programming languages
 
 <p align="left"> 
   &emsp; 
@@ -60,7 +63,9 @@
   &emsp;
 </p>
 
-### 👉 Frontend Development
+---
+
+#### 🧩 Frontend Development
 <p align="left"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -80,7 +85,9 @@
   </a>
 </p>
 
-### 👉 Databases & Cloud Hosting
+---
+
+#### ☁️ Databases & Cloud Hosting
 <p align="left">
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
@@ -95,8 +102,10 @@
   &emsp;
   <a href="https://www.aws.com/"><img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>  
  </p>
-  
-### 👉 Graphic Designing
+ 
+ --- 
+ 
+#### 🖼️ Graphic Designing
 <p align="left">
   &emsp;
    <a href="https://www.figma.com/" target="_blank"> 
@@ -121,8 +130,10 @@
     &emsp;
   
  </p>
+
+---
  
-### 👉 Framework & Tools
+#### 🧰 Framework & Tools
 <p align="left">
   <a href="reactjs.org" target="_blank"> 
     <img alt="ReactJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -213,7 +224,9 @@
   &emsp;
  </p>
 
-### 👉 Software & Tools
+---
+
+#### 💻 Software & Tools
  
 <p>
     <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
@@ -228,7 +241,9 @@
   &emsp;
 </p>
 
- ### 👉 Hardware Projects
+---
+
+#### 🔌 Hardware Projects
  
 <p>
    &emsp;
