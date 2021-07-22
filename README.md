@@ -1,5 +1,7 @@
 <p align="center">
-<a href="#"><img align="center" width="40%" height="auto" src="https://user-images.githubusercontent.com/35633575/126646551-17e68fa4-3306-4e50-af40-3cc523ad15f4.png" height="175px"/></a>
+<a href="#">
+  <img width="300" alt="git" src="https://user-images.githubusercontent.com/35633575/126677169-b9f5ee5d-248e-4317-8664-cd440154afab.png">
+</a>
 </p>
 
 <h3 align="center">Hey there, I'm Siddhant- aka coderrsid <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
