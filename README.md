@@ -28,17 +28,6 @@
 * 🎓 I'm a Computer Science student (graduating in September 2021)
 * <img src="https://user-images.githubusercontent.com/35633575/126625568-3bb2f7fd-2b97-4fb3-9665-50e9b3277877.png" width=15/> I'm currently working with [Joplin](https://github.com/laurent22/joplin) in the [Google Summer of Code](https://summerofcode.withgoogle.com/) program
 
-## 🔥 My contribution streak
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1#version3"/>
-  </a>
-</p>
-
-<h3 align="center">⬇ Click here to see <a href="https://github.com/coderrsid?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
-<p align="center"><img width="30%" src="https://user-images.githubusercontent.com/35633575/126678418-6de9c567-df80-4c57-ac62-454d7df29e96.gif" /></p>
-
 ## 🛠️ My Skills
 
 #### 👨‍💻 Programming languages
